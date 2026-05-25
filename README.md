@@ -2,8 +2,8 @@
 - 學號：25101127
 - 姓名：阮俊英
 - 班級：資管大一
-- 作品網址：https://username.github.io/portfolio
-- GitHub Repo：https://github.com/username/portfolio
+- 作品網址：https://s25101127-lgtm.github.io/portfolio
+- GitHub Repo：https://github.com/s25101127-lgtm/portfolio
 
 ## 📌 專題說明
 （簡述你的作品集網站主題與特色）
